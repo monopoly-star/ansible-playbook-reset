@@ -1,7 +1,7 @@
 ---
 # Reset VM
 
-- hosts: [hostname]
+- hosts: sisamer5
 
   tasks:
   - name: Reset VM
